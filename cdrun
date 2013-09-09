@@ -2,7 +2,7 @@
 
 # This is only useful if you have the script path and/or arguments in a 
 # single string. Normally it is easier to do something like 
-# $( cd /some/path ; ./run )
+# (cd /some/path; ./run)
 # instead of cdrun /some/path/run
 
 CMD=$1
